@@ -2,6 +2,7 @@
 
 ## About
 
+
 PatternifyJS is a reference of the main design patterns in JavaScript. JS libraries are not covered, but the core scripting languages around JavaScript are there. Here is the list of all available languages:
 
 * ECMAScript (Vanilla)
